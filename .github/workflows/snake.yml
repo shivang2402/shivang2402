@@ -6,25 +6,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+  build:
+    runs-on: ubuntu-22.04
     
     steps:
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: shivang2402
-          outputs: dist/github-snake-dark.svg?palette=github-dark
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+        uses: s0/git-publish-subdir-action@develop
         env:
+          REPO: self
+          BRANCH: output
+          FOLDER: dist
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
