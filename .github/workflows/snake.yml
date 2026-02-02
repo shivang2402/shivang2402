@@ -28,10 +28,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-```
-
-**Step 3:** Go to your repo → **Actions** tab → Click **"Generate Snake"** → **"Run workflow"**
-
-**Step 4:** Wait ~1 min, then your snake will be live at:
-```
-https://raw.githubusercontent.com/shivang2402/shivang2402/output/github-snake-dark.svg
