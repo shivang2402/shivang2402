@@ -1,76 +1,66 @@
-<!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hello%2C+world!+I'm+Shivang;%F0%9F%9A%80+SDE+Intern+%40+Amazon+%7C+MS+CS+%40+Northeastern;%E2%9A%A1+Design.+Debug.+Deliver." alt="Typing SVG" /></a>
-</p>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="mailto:patelshivang.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shivangmpatel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/shivang2402"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=shivang2402&style=for-the-badge&color=blueviolet"/>
+```
+███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ██╗ ██████╗ 
+██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗  ██║██╔════╝ 
+███████╗███████║██║██║   ██║███████║██╔██╗ ██║██║  ███╗
+╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██║   ██║
+███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚████║╚██████╔╝
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+
+╺┳┓┏━╸┏━┓╻┏━╸┏┓╻   ╺┳┓┏━╸┏┓ ╻ ╻┏━╸   ╺┳┓┏━╸╻  ╻╻ ╻┏━╸┏━┓  🚀
+ ┃┃┣╸ ┗━┓┃┃╺┓┃┗┫    ┃┃┣╸ ┣┻┓┃ ┃┃╺┓    ┃┃┣╸ ┃  ┃┃┏┛┣╸ ┣┳┛
+╺┻┛┗━╸┗━┛╹┗━┛╹ ╹   ╺┻┛┗━╸┗━┛┗━┛┗━┛   ╺┻┛┗━╸┗━╸╹┗┛ ┗━╸╹┗╸
+```
+
 </p>
 
 ---
 
-## 🧠 About Me
+## `> whoami`
 
 ```bash
-$ git log --oneline -1 shivang
+$ cat ~/.gitconfig
 
-commit 2402abc (HEAD -> main, origin/main)
-Author: Shivang Patel <patelshivang.work@gmail.com>
-Location: Seattle, WA 📍
-Education: MS Computer Science @ Northeastern University 🎓
+[user]
+    name = Shivang Patel
+    location = Seattle, WA
+    education = MS CS @ Northeastern University
 
-    feat: Building cool stuff at Amazon, ISRO, NEU Research Labs (x3)
-    
-    Skills: AI/ML | System Design | Full-Stack Development
-    
-    Status: Coping with AGI 🤖 — Claude, GPT, Gemini keep racing!
-    
-    Known bugs:
-    - [DEBUG] Solves bugs in dreams 💭
-    - [WARN] Goes blank even when fully locked in 🫠
-    
-    Signed-off-by: Design. Debug. Deliver. 🚀
-```
+[remote "origin"]
+    gmail = patelshivang.work@gmail.com
+    linkedin = linkedin.com/in/shivangmpatel
+    github = github.com/shivang2402
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang2402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" width="320"/>
+[status]
+    current = SDE Intern @ Amazon
+    looking_for = Early Career SDE Roles 💼
+    mood = Coping with AGI 🤖 — Claude, GPT, Gemini keep racing!
 
-- 🔥 **SDE Intern @ Amazon** — Building tools with React, AWS, and MCP servers
-- 🚀 **Ex-Intern @ ISRO** — Developed quantum-encrypted communication app
-- 🔬 **3x Research Assistant** — NURC Lab, Prof. Divya (Medical AI), SDS Lab (Climate ML)
-- 🎓 **Teaching Assistant** — Game AI & Object-Oriented Design @ NEU
-- 💡 Those *aha!* moments while debugging keep me going
-- ⚡ Always looking to learn, grow, evolve (and fail too!)
+[bugs]
+    debug = Solves bugs in dreams 💭
+    warn = Blanks out when locked in 🫠
 
----
+$ ping shivang
 
-## 🏢 Experience
-
-```sql
-SELECT role, company, duration, impact FROM experience ORDER BY date DESC;
-```
-
-| Role | Company | Duration | Impact |
-|:-----|:--------|:---------|:-------|
-| `SDE Intern` | **Amazon** 🟠 | Sep 2025 - Jan 2026 | React, AWS, MCP servers, 150k+ node graphs |
-| `Research Asst` | **NEU - NURC** 🔴 | May 2025 - Present | HPC, Kubernetes, Slurm, CUDA optimization |
-| `Research Asst` | **NEU - Prof. Divya** 🔴 | May 2025 - Present | Medical AI, Transformers, PyTorch pipelines |
-| `Research Asst` | **NEU - SDS Lab** 🔴 | May 2025 - Present | Climate ML, U-Net, 40 yrs spatiotemporal data |
-| `Teaching Asst` | **NEU** 🔴 | Jan 2025 - Present | Game AI & OOD, 500+ students taught |
-| `SWE Intern` | **ISRO** 🔵 | Dec 2023 - Mar 2024 | Quantum-encrypted app, presented to 150+ researchers |
-
-```sql
--- Query returned 6 rows. Career.exe loading... ██████████░░ 83%
+📡 Status: Open to opportunities
+📬 Reach me: DM • Email • Carrier Pigeon 🐦
+🚀 Let's build something amazing together!
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `$ ./experience.sh`
 
-**💻 Languages**
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Amazon+%E2%80%94+SDE+Intern+%F0%9F%9F%A0;ISRO+%E2%80%94+SWE+Intern+%F0%9F%94%B5;NEU+%E2%80%94+Research+Assistant+x3+%F0%9F%94%B4;NEU+%E2%80%94+Teaching+Assistant+%F0%9F%94%B4" alt="Experience" /></a>
+</p>
+
+---
+
+## `> npm list skills`
+
+**💻 languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -80,7 +70,7 @@ SELECT role, company, duration, impact FROM experience ORDER BY date DESC;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**🌐 Web & App**
+**🌐 web-app**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -90,7 +80,7 @@ SELECT role, company, duration, impact FROM experience ORDER BY date DESC;
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**☁️ DevOps & Cloud**
+**☁️ devops-cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -99,7 +89,7 @@ SELECT role, company, duration, impact FROM experience ORDER BY date DESC;
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**🤖 AI & ML**
+**🤖 ai-ml**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -110,7 +100,7 @@ SELECT role, company, duration, impact FROM experience ORDER BY date DESC;
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**🗄️ Databases**
+**🗄️ databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -121,13 +111,11 @@ SELECT role, company, duration, impact FROM experience ORDER BY date DESC;
 
 ---
 
-## 🚀 Featured Projects
+## `$ ls ~/projects`
 
 ```bash
-$ ls -la ~/projects/
-```
+$ ls -la
 
-```
 drwxr-xr-x  shivang  staff  PerfectPixel/
 drwxr-xr-x  shivang  staff  Kambaz/
 drwxr-xr-x  shivang  staff  Eatables/
@@ -144,17 +132,9 @@ $ cat project_details.txt
 | ⚙️ **MLOps** | `Python` `MLflow` `Docker` | E2E ML pipelines with experiment tracking | [![Repo](https://img.shields.io/badge/→_Repo-181717?style=flat&logo=github)](https://github.com/shivang2402/MLOps) |
 | 🤖 **Seva Mitra** | `Streamlit` `Llama2` `RAG` `AWS` | AI chatbot, increased awareness by 40% | `Private` |
 
-```bash
-$ echo "More projects loading..."
-```
-
 ---
 
-## 📊 GitHub Stats
-
-```sql
-SELECT stats FROM github WHERE username = 'shivang2402';
-```
+## `$ git stats`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivang2402&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -165,38 +145,10 @@ SELECT stats FROM github WHERE username = 'shivang2402';
   <img src="https://github-profile-trophy.vercel.app/?username=shivang2402&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </p>
 
-```bash
-$ ./generate_snake.sh
-```
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivang2402/shivang2402/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
-```python
-plt.plot(shivang.contributions, color='#A960FF')
-plt.title('Consistency is key 🔑')
-plt.show()
-```
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivang2402&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF" width="100%"/>
 </p>
-
----
-
-```bash
-$ cat ~/.message
-
-╔════════════════════════════════════════════════════════════════════════╗
-║  💼 Open to Early Career SDE Roles                                     ║
-║  📬 DM me, email me, or send a carrier pigeon 🐦                       ║
-║  🚀 Let's build something amazing together!                            ║
-╚════════════════════════════════════════════════════════════════════════╝
-
-$ exit
-```
