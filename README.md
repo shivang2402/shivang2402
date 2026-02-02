@@ -46,7 +46,7 @@ $ ping shivang
 ## `$ ./experience.sh`
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Amazon+%E2%80%94+SDE+Intern+%F0%9F%9F%A0;ISRO+%E2%80%94+SWE+Intern+%F0%9F%94%B5;NEU+%E2%80%94+Research+Assistant+x3+%F0%9F%94%B4;NEU+%E2%80%94+Teaching+Assistant+%F0%9F%94%B4" alt="Experience" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Amazon+%E2%80%94+SDE+Intern;ISRO+%E2%80%94+SWE+Intern;NEU+%E2%80%94+Research+Assistant+x3;NEU+%E2%80%94+Teaching+Assistant" alt="Experience" /></a>
 </p>
 
 ---
